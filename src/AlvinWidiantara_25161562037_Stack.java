@@ -1,4 +1,4 @@
-public class _25161562037_AlvinWidiantara_Stack {
+public class AlvinWidiantara_25161562037_Stack {
 
     // === BAGIAN 1: Deklarasi Stack ===
     static String[] stack = new String[10];
